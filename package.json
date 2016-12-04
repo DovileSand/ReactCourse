@@ -1,0 +1,17 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple React App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dovile Sand",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+}
