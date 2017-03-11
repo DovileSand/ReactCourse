@@ -50,8 +50,8 @@
 	var ReactDOM = __webpack_require__(158);
 	var Greeter = __webpack_require__(159);
 
-	var firstName = 'Charlie';
-	var message = 'This is a message!';
+	var firstName = 'Leila';
+	var message = 'We have an abundance of ice cream!';
 
 	ReactDOM.render(React.createElement(Greeter, { name: firstName, message: message }), document.getElementById('app'));
 

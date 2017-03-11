@@ -1,9 +1,9 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var Greeter = require('./components/Greeter');
+var Greeter = require('Greeter');
 
-var firstName = 'Charlie'
-var message = 'This is a message!';
+var firstName = 'Leila'
+var message = 'We have an abundance of ice cream!';
 
 ReactDOM.render(
 
