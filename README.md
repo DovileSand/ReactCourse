@@ -1,5 +1,4 @@
 # ReactCourse
-### Following introductory React.js course
 
 Mini Project #1
 ---------------
